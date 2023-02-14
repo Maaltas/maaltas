@@ -6,4 +6,4 @@
 
 ### My Stats 📊
 ![Devs](https://github-readme-stats.vercel.app/api?username=maaltas&show_icons=true&theme=java-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maaltas&theme=java-dark&hide_border=true&border_radius=5.5&locale=es)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maaltas&theme=java-dark&hide_border=true&border_radius=5.5&locale=es)
